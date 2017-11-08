@@ -1,1 +1,1 @@
-# LDMAP
+# GLOBALMAP
